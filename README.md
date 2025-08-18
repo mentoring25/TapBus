@@ -1,13 +1,15 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # TapBus
+
+부산소프트웨어마이스터고의 **통학버스 관리를 보다 편리하게 해주는 앱**입니다.  
+학생과 교사가 직관적으로 버스 운행 정보를 확인하고 관리할 수 있습니다.
+
+---
+
+## 커밋 컨벤션
+
+- `feat`: 새로운 기능 추가
+- `fix`: 버그 수정
+- `docs`: 문서 작성 및 수정
+- `style`: 코드 포매팅, 스타일 변경 (기능 변경 없음)
+- `refactor`: 코드 리팩토링 (기능 변경 없음)
+- `chore`: 기타 변경사항 (빌드 스크립트, 환경설정 등)
