@@ -1,6 +1,8 @@
 import "./App.css";
 import { useEffect, useState } from "react";
 
-function App() {}
+function App() {
+  return <></>;
+}
 
 export default App;
